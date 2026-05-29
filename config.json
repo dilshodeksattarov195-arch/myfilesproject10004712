@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecncrypt",
+        "uuid": 18386224,
+        "checksum": "nsfi7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
